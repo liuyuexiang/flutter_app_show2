@@ -4,4 +4,4 @@
 
 2020/5/30
 1、完成交易页面 listview展示
-2、增加textfield
+2、完成trans
